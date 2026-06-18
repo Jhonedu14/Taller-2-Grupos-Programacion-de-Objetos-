@@ -1,2 +1,3 @@
 # Taller-2-Grupos-Programacion-de-Objetos---
-hoasd
+Trabajo Grupal
+
